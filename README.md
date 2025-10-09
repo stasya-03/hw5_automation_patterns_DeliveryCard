@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/stasya-03/hw5_automation_patterns_DeliveryCard/actions/workflows/gradle.yml/badge.svg)](https://github.com/stasya-03/hw5_automation_patterns_DeliveryCard/actions/workflows/gradle.yml)
