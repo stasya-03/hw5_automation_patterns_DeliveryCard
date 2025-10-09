@@ -20,6 +20,7 @@ public class CardDeliveryTest {
 
     @Test
     void shouldSuccessfulPlanMeeting() {
+
         var validUser = DataGenerator.Registration.generateUser("ru");
         var firstMeetingDay = DataGenerator.generateDate(4);
         var secondMeetingDay = DataGenerator.generateDate(8);
