@@ -1,11 +1,12 @@
+package ru.netology.web.test;
+
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selectors;
 import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import ru.netology.web.DataGenerator;
+import ru.netology.web.data.DataGenerator;
 
 import java.time.Duration;
 
